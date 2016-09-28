@@ -24,7 +24,7 @@ public class HomeActivity extends AppCompatActivity {
     private Document mDocument;
     private ArrayList<String> addresses = new ArrayList<>();
     private ArrayAdapter<String> mStringArrayAdapter;
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
